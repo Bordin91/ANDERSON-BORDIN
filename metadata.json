@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Laudo de Insalubridade",
+  "description": "Uma aplicação para analisar laudos periciais de insalubridade em formato PDF, extraindo informações chave, identificando inconsistências e auxiliando na elaboração de contestações técnicas com base nas normas de segurança do trabalho.",
+  "requestFramePermissions": []
+}
